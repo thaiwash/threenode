@@ -1,4 +1,8 @@
 # how to use
+```bash
+npm install threenodejs
+```
+
 ```js
 const { createCanvas, loadImage } = require('canvas')
 const canvas = createCanvas(2560, 1440)
@@ -8,7 +12,7 @@ console.log(THREE)
 ```
 
 
-More in example.js
+More in examples
 
 
 # author
