@@ -1,4 +1,4 @@
-# how to use
+# How to use
 ```bash
 npm install threenodejs
 ```
